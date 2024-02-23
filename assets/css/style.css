@@ -1,0 +1,118 @@
+*{
+    font-family: "Raleway";
+}
+
+body{
+    width: 1280px;
+    margin: 0 auto;
+}
+/* HEADER */
+header{
+    background-color: black;         
+}
+
+h1{
+    height: 73px;      
+    color: white;
+    font-weight: 300;
+    text-align: center;    
+    margin: 0;
+    font-size: 50px;
+}
+
+/* PRIMNER PARRAFO */
+
+#descripcion{
+    height: 240px;
+    /* width: 1280px; */
+    background-color: black;   
+    text-align: center; 
+    margin: 0px;
+    padding: 70px;    
+}
+
+#articDescripcion{
+    display: inline-block;
+    vertical-align: middle; 
+    
+     
+}
+.parrafo{
+    color: white;
+    width: 475px;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 300;
+}
+#iguana1{
+    display: inline-block;
+    vertical-align: middle;     
+
+    width: 399px;
+    height: 237px; 
+}
+
+/* CARACTERISTICAS */
+
+#caracteristicas{
+    height: 348px;
+    background-color: #1E1A13;
+    text-align: center;    
+}
+
+#caracteristicas > h2{
+    font-size: 40px;
+    font-weight: 300;
+    color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+#caracteristicas > article{
+    color: white;
+    display: inline-block;     
+    margin: 80px;          
+}
+#caracteristicas > article > h2{
+    font-weight: 300;
+}
+
+.fa{
+    font-size:50px;
+    font-weight: 500;
+    color:white;
+    margin: 0;
+}
+/* CARRUSEL */
+
+#carrusel{
+    height: 348px;
+    background-color: black;
+    text-align: center;
+}
+
+.imgCarrusel{
+    width: 316px;
+    height: 202px;
+    margin: 50px 20px;
+}
+
+footer{
+    height: 102px;
+    background-color: #1E1A13;   
+    text-align: center; 
+}
+
+footer > p{
+    margin: 0;
+    font-size: 20px;
+    font-weight: 100;
+    color: white;
+    padding-top: 50px;
+    
+}
+
+footer > p > a{
+    color: white;
+    text-decoration: none;
+}
