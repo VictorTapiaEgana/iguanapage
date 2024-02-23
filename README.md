@@ -1,4 +1,3 @@
-
 # Iguana Page
 
 Landing Page para el curso de "Desarrollo de aplicaciones Full Stack Javascript Trainee" de Talento Digital y DesafioLatam
