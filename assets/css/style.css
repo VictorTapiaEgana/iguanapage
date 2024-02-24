@@ -8,12 +8,12 @@ body{
 }
 /* HEADER */
 header{
-    background-color: black;         
+    background-color: #000000;         
 }
 
 h1{
     height: 73px;      
-    color: white;
+    color: #FFFFFF;
     font-weight: 300;
     text-align: center;    
     margin: 0;
@@ -24,7 +24,7 @@ h1{
 
 #descripcion{
     height: 240px;    
-    background-color: black;   
+    background-color: #000000;   
     text-align: center; 
     margin: 0px;
     padding: 70px;    
@@ -62,13 +62,13 @@ h1{
 #caracteristicas > h2{
     font-size: 40px;
     font-weight: 300;
-    color: white;
+    color: #FFFFFF;
     margin: 0;
     padding: 20px;
 }
 
 #caracteristicas > article{
-    color: white;
+    color: #FFFFFF;
     display: inline-block;     
     margin: 80px;          
 }
@@ -79,14 +79,14 @@ h1{
 .fa{
     font-size:50px;
     font-weight: 500;
-    color:white;
+    color:#FFFFFF;
     margin: 0;
 }
 /* CARRUSEL */
 
 #carrusel{
     height: 348px;
-    background-color: black;
+    background-color: #000000;
     text-align: center;
 }
 
@@ -106,12 +106,12 @@ footer > p{
     margin: 0;
     font-size: 20px;
     font-weight: 100;
-    color: white;
+    color: #FFFFFF;
     padding-top: 50px;
     
 }
 
 footer > p > a{
-    color: white;
+    color: #FFFFFF;
     text-decoration: none;
 }
